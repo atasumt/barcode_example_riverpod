@@ -1,4 +1,4 @@
-# Proje Adı
+# Borcode Okuyucu
 
 Bu proje, Flutter kullanılarak geliştirilmiş bir uygulamadır. Uygulama, modern bir kullanıcı arayüzü ile birlikte çeşitli özellikler ve işlevsellikler sunmaktadır.
 
