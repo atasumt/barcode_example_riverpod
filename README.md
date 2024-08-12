@@ -36,6 +36,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş bir uygulamadır. Uygulama, mode
 
 ## Proje Yapısı
 
+```plaintext
 ├── core
 │   ├── common
 │   │   ├── global_app_bar.dart
