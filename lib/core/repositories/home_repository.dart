@@ -15,7 +15,7 @@ class HomeRepository  implements HomeRepositoryInterface {
     try {
       var response = await fetchDio().get(
         EndPointConstants.getProductionEndPoint,
-          queryParameters: {'limit': '10','type': skip});
+          queryParameters: {'limit': '100','type': skip});
 
       var responseData = DummyJson.fromJson(response.data);
       return responseData;
